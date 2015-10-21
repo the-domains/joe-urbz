@@ -1,0 +1,23 @@
+name: Joe Urbz
+favicon: null
+layout_spectrum: 0.952310802647844
+typography_spectrum: 0.5836398696992546
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.592886772705242
+  lightness: 0.22413023631088436
+  saturation: 0.9724402038846165
+  rhythmicContrast: 0.059573282254859805
+purpose: []
